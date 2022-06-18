@@ -1,0 +1,32 @@
+body {
+  /* background-color: ; */
+}
+h3 {
+  margin: 5px;
+  font-size: 1.4em;
+  font-weight: 700;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 12px;
+}
+.center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+.card {
+  width: 80%;
+  height: 80%;
+  margin: 20px;
+  padding: 20px 10px;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #faf1f1;
+  border-radius: 5px;
+}
